@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:7:5-9:38
+	android:maxSdkVersion
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:8:9-55
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:18:5-77
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:18:22-74
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:19:1-65
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:19:18-62
+application
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:21:5-31:19
+	android:label
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:23:9-45
+	android:allowBackup
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:25:9-67
+activity#com.matesnetwork.Cognalys.VerifyMobile
+ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:26:9-30:20
+	android:label
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:29:13-71
+	android:name
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml:27:13-41
+uses-sdk
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TimeMAchine\Documents\GitHub\PhoneVerification\cognalys\src\main\AndroidManifest.xml
